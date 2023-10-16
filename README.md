@@ -1,9 +1,9 @@
 # OS-EX.9-IMPLEMENTATION-OF-PAGING---MEMORY-MANAGEMENT-
 
-AIM:
+## AIM:
 To write a c program to implement Paging technique for memory management.
 
-ALGORITHM:
+## ALGORITHM:
 1.Read all the necessary input from the keyboard.
 
 2.Pages - Logical memory is broken into fixed - sized blocks.
@@ -17,7 +17,7 @@ ALGORITHM:
 6.Display the physical address.
 
 7.Stop the process
-PROGRAM:
+## PROGRAM:
 ```
 #include<stdio.h>
 #include<conio.h>
@@ -60,8 +60,8 @@ printf("\nThe Physical Address is -- %d",pa);
 getch();
 }
 ```
-OUTPUT:
+## OUTPUT:
 ![image](https://github.com/Reebak04/OS-EX.9-IMPLEMENTATION-OF-PAGING---MEMORY-MANAGEMENT-/assets/118364993/03b785d4-d772-466f-9b28-3841c064ccca)
 
-RESULT:
+## RESULT:
 Thus the implementation of paging technique for memory management is executed successfully.
